@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am an English and Chinese blog writer. 
+I am a bilingual (English and Chinese) blog writer. 
 
 
 
